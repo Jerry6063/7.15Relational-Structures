@@ -1,67 +1,15 @@
 [
-  {
-    "source": "Tiri Kananuruk",
-    "target": "Symbiosis.live",
-    "type": "created"
-  },
-  {
-    "source": "Sebasti\u00e1n Morales Prado",
-    "target": "Symbiosis.live",
-    "type": "created"
-  },
-  {
-    "source": "Estuary",
-    "target": "Symbiosis.live",
-    "type": "infrastructure"
-  },
-  {
-    "source": "Bioreactor",
-    "target": "Symbiosis.live",
-    "type": "infrastructure"
-  },
-  {
-    "source": "Internet Bots",
-    "target": "Symbiosis.live",
-    "type": "ecosystem"
-  },
-  {
-    "source": "Cells",
-    "target": "Symbiosis.live",
-    "type": "ecosystem"
-  },
-  {
-    "source": "Gwangju Biennale",
-    "target": "Symbiosis.live",
-    "type": "exhibited"
-  },
-  {
-    "source": "Experimenta Biomess",
-    "target": "Symbiosis.live",
-    "type": "inspired"
-  },
-  {
-    "source": "SymbioticA",
-    "target": "Symbiosis.live",
-    "type": "context"
-  },
-  {
-    "source": "Visual Symbiosis",
-    "target": "Symbiosis.live",
-    "type": "aesthetic"
-  },
-  {
-    "source": "SFPC",
-    "target": "Tiri Kananuruk",
-    "type": "affiliated"
-  },
-  {
-    "source": "SFPC",
-    "target": "Sebasti\u00e1n Morales Prado",
-    "type": "affiliated"
-  },
-  {
-    "source": "Microscopy",
-    "target": "Symbiosis.live",
-    "type": "technique"
-  }
+  { "source": "Tiri Kananuruk", "target": "Symbiosis.live", "type": "created" },
+  { "source": "Sebastián Morales Prado", "target": "Symbiosis.live", "type": "created" },
+  { "source": "Estuary", "target": "Symbiosis.live", "type": "infrastructure" },
+  { "source": "Bioreactor", "target": "Symbiosis.live", "type": "infrastructure" },
+  { "source": "Internet Bots", "target": "Symbiosis.live", "type": "ecosystem" },
+  { "source": "Cells", "target": "Symbiosis.live", "type": "ecosystem" },
+  { "source": "Gwangju Biennale", "target": "Symbiosis.live", "type": "exhibited" },
+  { "source": "Experimenta Biomess", "target": "Symbiosis.live", "type": "inspired" },
+  { "source": "SymbioticA", "target": "Symbiosis.live", "type": "context" },
+  { "source": "Visual Symbiosis", "target": "Symbiosis.live", "type": "aesthetic" },
+  { "source": "SFPC", "target": "Tiri Kananuruk", "type": "affiliated" },
+  { "source": "SFPC", "target": "Sebastián Morales Prado", "type": "affiliated" },
+  { "source": "Microscopy", "target": "Symbiosis.live", "type": "technique" }
 ]

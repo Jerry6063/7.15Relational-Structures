@@ -1,41 +1,15 @@
 [
-  {
-    "id": "Symbiosis.live"
-  },
-  {
-    "id": "Tiri Kananuruk"
-  },
-  {
-    "id": "Sebasti\u00e1n Morales Prado"
-  },
-  {
-    "id": "Estuary"
-  },
-  {
-    "id": "Bioreactor"
-  },
-  {
-    "id": "Internet Bots"
-  },
-  {
-    "id": "Cells"
-  },
-  {
-    "id": "Gwangju Biennale"
-  },
-  {
-    "id": "Experimenta Biomess"
-  },
-  {
-    "id": "SymbioticA"
-  },
-  {
-    "id": "Visual Symbiosis"
-  },
-  {
-    "id": "SFPC"
-  },
-  {
-    "id": "Microscopy"
-  }
+  { "id": "Symbiosis.live" },
+  { "id": "Tiri Kananuruk" },
+  { "id": "Sebastián Morales Prado" },
+  { "id": "Estuary" },
+  { "id": "Bioreactor" },
+  { "id": "Internet Bots" },
+  { "id": "Cells" },
+  { "id": "Gwangju Biennale" },
+  { "id": "Experimenta Biomess" },
+  { "id": "SymbioticA" },
+  { "id": "Visual Symbiosis" },
+  { "id": "SFPC" },
+  { "id": "Microscopy" }
 ]
