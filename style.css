@@ -1,0 +1,15 @@
+/* 设置全局字体和背景 */
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: sans-serif;
+  background-color: white;
+  color: #333;
+}
+
+/* 让 SVG 占满视图区域 */
+svg {
+  display: block;
+  margin: auto;
+  border: 1px solid #ccc;
+}
